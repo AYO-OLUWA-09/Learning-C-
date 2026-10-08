@@ -1,0 +1,3 @@
+console.log("Name: Folorunso Ayooluwa");
+console.log("Age: 17");   
+console.log("Favourite Language: None for now");
